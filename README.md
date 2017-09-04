@@ -1,2 +1,1 @@
-# my-repository1
-sssssss
+# my-repository
